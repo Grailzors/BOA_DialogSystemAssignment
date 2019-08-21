@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40e8d6afe49040b4783a149786bf013b, type: 3}
+  m_Name: Story2
+  m_EditorClassIdentifier: 
+  blankSprite: {fileID: 21300018, guid: 03d053c3723086841995d246e68096ef, type: 3}
+  dialogue:
+  - characterSprite: {fileID: 21300008, guid: 03d053c3723086841995d246e68096ef, type: 3}
+    characterType: 0
+    name: 0
+    dialogue: '... you know what the funniest thing about Europe is?'
+  - characterSprite: {fileID: 21300010, guid: 03d053c3723086841995d246e68096ef, type: 3}
+    characterType: 1
+    name: 1
+    dialogue: What?
+  - characterSprite: {fileID: 21300004, guid: 03d053c3723086841995d246e68096ef, type: 3}
+    characterType: 0
+    name: 0
+    dialogue: It's the little differences. A lotta the same shit we got here, they
+      got there, but there they're a little different.
+  - characterSprite: {fileID: 21300014, guid: 03d053c3723086841995d246e68096ef, type: 3}
+    characterType: 1
+    name: 1
+    dialogue: Example?
+  - characterSprite: {fileID: 21300004, guid: 03d053c3723086841995d246e68096ef, type: 3}
+    characterType: 0
+    name: 0
+    dialogue: Alright, when you go into a movie theatre in Amsterdam, you can buy
+      beer. And I don't mean in a paper cup either. They give you a glass of beer...
+  - characterSprite: {fileID: 21300008, guid: 03d053c3723086841995d246e68096ef, type: 3}
+    characterType: 0
+    name: 0
+    dialogue: '... And in Paris, you can buy beer at MacDonald''s. And you know what
+      they call a Quarter Pounder with Cheese in Paris?'
+  - characterSprite: {fileID: 21300012, guid: 03d053c3723086841995d246e68096ef, type: 3}
+    characterType: 1
+    name: 1
+    dialogue: They don't call it a Quarter Pounder with Cheese?
+  - characterSprite: {fileID: 21300006, guid: 03d053c3723086841995d246e68096ef, type: 3}
+    characterType: 0
+    name: 0
+    dialogue: No, they got the metric system there, they wouldn't know what the fuck
+      a Quarter Pounder is.
+  - characterSprite: {fileID: 21300010, guid: 03d053c3723086841995d246e68096ef, type: 3}
+    characterType: 1
+    name: 1
+    dialogue: What'd they call it?
+  - characterSprite: {fileID: 21300008, guid: 03d053c3723086841995d246e68096ef, type: 3}
+    characterType: 0
+    name: 0
+    dialogue: They call it Royale with Cheese.
+  - characterSprite: {fileID: 21300016, guid: 03d053c3723086841995d246e68096ef, type: 3}
+    characterType: 1
+    name: 1
+    dialogue: Royale with Cheese. What'd they call a Big Mac?
+  - characterSprite: {fileID: 21300004, guid: 03d053c3723086841995d246e68096ef, type: 3}
+    characterType: 0
+    name: 0
+    dialogue: Big Mac's a Big Mac, but they call it Le Big Mac.
